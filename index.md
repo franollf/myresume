@@ -177,6 +177,10 @@ and change @REDACTED to be true
 
 
 
+<head>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="settings.css">
+</head>
 
 
 
