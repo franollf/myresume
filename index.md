@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Resume</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="settings.css">
-</head>
-<body>
-  <div class="resume">
-    <p>Vancouver, British Columbia | 778-697-5188 | ffa28@sfu.ca |
-      <a href="https://linkedin.com/in/franollfantu">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" alt="LinkedIn">
-      </a> |
-      <a href="https://github.com/franollf">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="24" alt="GitHub">
-      </a>
-    </p>
-    <!--
+<!--
 Welcome to resume.lol !
 
 
@@ -1271,7 +1253,3 @@ Vancouver, British Columbia | 778-697-5188 | ffa28@sfu.ca | [franollfantu](https
 
 
 
-
-  </div>
-</body>
-</html>
